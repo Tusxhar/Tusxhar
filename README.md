@@ -5,7 +5,7 @@
 -🌱 I’m currently learning : Data Structure and Algorithm
 -👯 I’m looking to collaborate on : Projects that focuses on Real-World Problems
 -💬 You can Ask me about : 
--📫 How to reach me : via LinkedIn (mentioned in my Profile) and via E-Mail = tusharsinghrathore306@gmail.com and offcourse you can contact me on GitHub as well
+-📫 How to reach me : via LinkedIn (mentioned in my Profile) and offcourse you can contact me on GitHub as well
 -⚡ Fun fact : I love listening Gossips about others
 
 -🛠 Tech Stack
